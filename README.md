@@ -29,7 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ariyanshiputech-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/ariyanshiputech)
 [![Twitter](https://img.shields.io/badge/Twitter-@ariyanshiputech-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/ariyanshiputech)
-[![Website](https://img.shields.io/badge/Website-ariyanshiputech.com-ff69b4?style=flat-square)](https://ariyanshiputech.com)
+[![Website](https://img.shields.io/badge/Website-ariyanshiputech.com-ff69b4?style=flat-square)](https://ariyanshiputech.me)
 
 ---
 
