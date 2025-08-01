@@ -1,6 +1,6 @@
 <!-- Eye-catching GitHub Profile README for ariyanshiputech -->
 
-<h1 align="center">Hi there, I'm Ariyan 👋</h1>
+<h1 align="center">Hi there, I'm Ariyan Shipu 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Profession-Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Skills-Python,%20React,%20DevOps-green?style=flat-square" />
@@ -29,7 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ariyanshiputech-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/ariyanshiputech)
 [![Twitter](https://img.shields.io/badge/Twitter-@ariyanshiputech-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/ariyanshiputech)
-[![Website](https://img.shields.io/badge/Website-ariyanshiputech.com-ff69b4?style=flat-square)](https://ariyanshiputech.me)
+[![Website](https://img.shields.io/badge/Website-ariyanshipu.me-ff69b4?style=flat-square)](https://ariyanshipu.me)
 
 ---
 
