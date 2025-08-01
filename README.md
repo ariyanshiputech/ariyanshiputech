@@ -1,6 +1,8 @@
 
 <h1 align="center">
-<img src="https://avatars.githubusercontent.com/u/181628538" alt="Ariyan Shipu" width="200" style="border-radius: 50%; border: 4px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.6); transform: translateY(-10px);" />
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/181628538" alt="Ariyan Shipu" width="200" style="border-radius: 50%; border: 3px solid #4CAF50;" />
+</div>
 <br />
   <span style="background: linear-gradient(to right, #36BCF7, #4CAF50); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       Hey there!<br />
